@@ -8,7 +8,7 @@ const refs = {
     textarea: document.querySelector(".feedback-form textarea")
 }
 
-formData = {
+const formData = {
     email: "",
     message: ""
 };
